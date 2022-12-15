@@ -1,0 +1,8 @@
+{
+  "name": "J.A.T.E.",
+  "short_name": "J.A.T.E.",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "./",
+  "description": "Edit text"
+}
