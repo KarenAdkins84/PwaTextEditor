@@ -15,8 +15,8 @@ HTML, CSS, Javascript, Node.js, Express.js, webpack plugins, Heroku
 Click on the Heroku deployed application link and hit the install button on the navbar to install on your desktop!
 
 ### Deployed Application
-[Link](https://cryptic-plains-18429.herokuapp.com/)
+[Link to Heroku App](https://cryptic-plains-18429.herokuapp.com/)
 
 ### Github Repo
-[Link](https://github.com/KarenAdkins84/PwaTextEditor)
+[Link to Github Repo](https://github.com/KarenAdkins84/PwaTextEditor)
 
